@@ -1,0 +1,22 @@
+.backgroundContainer {
+  height: 100vh;
+}
+
+.backgroundContainer .dropdown {
+  list-style-type: none;
+  background-color: #e3e3e3;
+  width: 27.5%;
+  margin-left: 35%;
+  padding: 0%;
+  max-height: 200px;
+  overflow: auto;
+}
+
+.backgroundContainer .dropdown li {
+  text-align: left;
+  padding: 6px 20px;
+  border-bottom: 1px solid #ffffff;
+  cursor: pointer;
+  width: 100%;
+}
+/*# sourceMappingURL=BackgroundColor.css.map */

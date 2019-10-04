@@ -1,0 +1,10 @@
+.selected_star {
+  list-style-type: none;
+}
+.selected_star:hover {
+  color: yellow;
+}
+.selected_star.selected {
+  color: red;
+  background-color: black;
+}

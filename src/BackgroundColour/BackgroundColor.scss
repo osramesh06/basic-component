@@ -1,0 +1,19 @@
+.backgroundContainer {
+    height: 100vh;
+    .dropdown {
+        list-style-type: none;
+        background-color: #e3e3e3;
+        width: 27.5%;
+        margin-left: 35%;
+        padding: 0%;
+        max-height: 200px;
+        overflow: auto;
+        li {
+            text-align: left;
+            padding: 6px 20px;
+            border-bottom: 1px solid #ffffff;
+            cursor: pointer;
+            width: 100%;
+        }
+    }
+}
